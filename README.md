@@ -11,9 +11,11 @@
 2. How to use `state` in react and update it as needed
 3. How to make `functional components ` and use them 
 
-## Live Link -:[Tic-Tac-Toe]()
+## Live Link -:[Tic-Tac-Toe](https://tic-tac-toe-link.netlify.app/)
 
 ## Screenshots:-
+![](./src/assets/Screenshot_2.JPG)
+![](./src/assets/Screenshot_1.JPG)
 
 
 
